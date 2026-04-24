@@ -1,4 +1,4 @@
-# mirage
+# Mirage
 
 <sub><sup>мой очередной нейрослоп йобнуца. Сделано при поддержке Gemini 3.1 Pro Preview</sup></sub>
 
