@@ -44,7 +44,7 @@ def apply_perceptual_transform(input_path, output_path):
 class MirageApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Mirage - Image Transformer")
+        self.root.title("Mirage")
         self.root.geometry("550x220")
         
         # Поддержка высокого DPI
