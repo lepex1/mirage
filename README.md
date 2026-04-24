@@ -14,9 +14,6 @@
 
 мой очередной нейрослоп йобнуца. Сделано при поддержке Gemini 3.1 Pro Preview
 
-ес
-
-
 ```
 git clone https://github.com/lepex1/mirage.git
 ```
